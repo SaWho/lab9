@@ -1,0 +1,2 @@
+For assignment of the address of a box of a particular type one needs a box that can contain the address of that very type. So here it will be an error if we store &c directly in p. But instead if we put the type casted value then it will work. That is, we have to write a code of the form:
+double *p=(double *)&c; 

@@ -1,0 +1,16 @@
+The value of the variables in lhs are written sequentially as follows:
+The value of blocks[3]=<garbage>
+The value of ptr=4434
+The value of temp=A
+The value of temp=C
+The value of temp=B
+The value of temp=A
+The value of ptr=4435
+The value of temp=B
+The value of temp=C
+The value of ptr=4434
+The value of temp=B
+The value of temp=C
+The value of temp=B
+The value of temp=C
+

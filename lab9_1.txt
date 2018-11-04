@@ -1,0 +1,4 @@
+*p3=S
+*p3=T , p3=T<garbage value>
+*p1=S , p1=S<garbage value>
+
